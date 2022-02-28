@@ -10,6 +10,10 @@ header h1 {
   margin-bottom: 15px;
 }
 
+var {
+  font-size: 1.5rem;
+}
+
 header var {
   font-style: normal;
   margin-bottom: 15px;
